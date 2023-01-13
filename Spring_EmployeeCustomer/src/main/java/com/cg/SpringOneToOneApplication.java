@@ -8,7 +8,7 @@ public class SpringOneToOneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringOneToOneApplication.class, args);
-		System.err.println("Employee App Started");
+		System.out.println("Employee App Started");
 	}
 
 }
